@@ -7,6 +7,7 @@ The camera_tracker class handles the camera pose integration, keyframe selection
 The iaicp class handles the pose estimation problem between two frames.
 
 If you use our code for your research purpose, please cite our paper [1].
+
 [1] Fast Visual Odometry Using Intensity-Assisted Iterative Closest Point , Shile Li and Dongheui Lee, in IEEE Robotics and Automation Letters Volume 1 Issue 2, 2016
 
 **Requirements:**
